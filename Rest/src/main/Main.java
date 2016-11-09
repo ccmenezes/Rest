@@ -1,7 +1,11 @@
 package main;
 
+import io.restassured.RestAssured;
+
 public class Main {
+
 	public static void main(String[] args) {
-		System.out.println("Mia");
+		new Teste().xpto();
 	}
+
 }
