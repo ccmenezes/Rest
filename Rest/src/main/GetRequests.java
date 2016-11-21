@@ -3,9 +3,13 @@ package main;
 import io.restassured.RestAssured;
 import org.hamcrest.Matchers;
 
-//http://www.thomas-bayer.com/sqlrest/
-//http://www.thomas-bayer.com/sqlrest/CUSTOMER/
-//http://www.thomas-bayer.com/sqlrest/CUSTOMER/3/
+// http://services.groupkt.com/country/get/all
+// http://services.groupkt.com/country/get/iso2code/DZ
+// http://www.groupkt.com/post/c9b0ccb9/country-and-other-related-rest-webservices.htm
+// http://www.groupkt.com/post/5926d648/free-restful-web-service-to-get-location-by-ip-address.htm
+// http://www.groupkt.com/post/f2129b88/free-restful-web-services-to-consume-and-test.htm
+
+
 
 public class GetRequests {
 

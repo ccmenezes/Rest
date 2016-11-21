@@ -8,7 +8,7 @@ public class Main {
 
 	public void doIt() {
 		GetRequests getRequests = new GetRequests();
-	//	getRequests.getAllCountry();
+		getRequests.getAllCountry();
 		getRequests.hasCountry("MEX");
 	}
 }
